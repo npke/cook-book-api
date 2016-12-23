@@ -33,3 +33,5 @@ D:\HCMUS\Term-08\software-testing\project\CookBook\Source\Web Service\Web Servic
 D:\HCMUS\Term-08\software-testing\project\CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.csprojResolveAssemblyReference.cache
 D:\HCMUS\Term-08\software-testing\project\CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.dll
 D:\HCMUS\Term-08\software-testing\project\CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.pdb
+D:\HCMUS\Term-08\software-testing\project\CookBook\Source\Web Service\Web Service\bin\System.Web.Mvc.dll
+D:\HCMUS\Term-08\software-testing\project\CookBook\Source\Web Service\Web Service\bin\System.Web.Mvc.xml
